@@ -1,0 +1,8 @@
+{
+    "name": "directiveApp",
+    "version": "latest",
+    "dependencies": {
+        "angular": "latest",
+        "bootstrap": "latest"
+    }
+}
